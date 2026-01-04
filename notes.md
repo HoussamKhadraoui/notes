@@ -64,3 +64,4 @@
 - 2026-08-04 12:24  note a name to check
 - 2026-08-25 19:39  note a time to revisit this
 - 2026-09-08 14:14  fix a small typo
+- 2026-01-04 11:16  mark something done
