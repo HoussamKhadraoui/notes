@@ -68,3 +68,4 @@
 - 2026-01-06 10:38  reword the opening line
 - 2026-01-07 11:32  clean up a messy line
 - 2026-01-07 12:16  leave a placeholder
+- 2026-01-07 13:20  jot a follow-up
