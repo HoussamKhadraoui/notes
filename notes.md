@@ -66,3 +66,4 @@
 - 2026-09-08 14:14  fix a small typo
 - 2026-01-04 11:16  mark something done
 - 2026-01-06 10:38  reword the opening line
+- 2026-01-07 11:32  clean up a messy line
