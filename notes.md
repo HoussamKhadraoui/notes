@@ -72,3 +72,4 @@
 - 2026-01-07 14:07  note a name to check
 - 2026-01-07 15:06  note a time to revisit this
 - 2026-01-07 16:05  add a question to come back to
+- 2026-01-08 11:31  park an idea
