@@ -75,3 +75,4 @@
 - 2026-01-08 11:31  park an idea
 - 2026-01-08 12:25  capture a passing thought
 - 2026-01-08 13:28  add a second thought under the first
+- 2026-01-09 11:29  split a long note
