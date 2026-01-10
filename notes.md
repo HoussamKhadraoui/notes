@@ -83,3 +83,4 @@
 - 2026-01-09 16:17  shorten a paragraph
 - 2026-01-10 10:10  leave the draft where it is
 - 2026-01-10 11:09  adjust the order
+- 2026-01-10 12:16  cross one item off
