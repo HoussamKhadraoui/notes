@@ -85,3 +85,4 @@
 - 2026-01-10 11:09  adjust the order
 - 2026-01-10 12:16  cross one item off
 - 2026-01-10 13:24  tighten the wording
+- 2026-01-10 14:32  add a short aside
