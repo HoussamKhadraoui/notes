@@ -82,3 +82,4 @@
 - 2026-01-09 15:19  fix a small typo
 - 2026-01-09 16:17  shorten a paragraph
 - 2026-01-10 10:10  leave the draft where it is
+- 2026-01-10 11:09  adjust the order
