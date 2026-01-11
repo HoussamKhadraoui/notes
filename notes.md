@@ -87,3 +87,4 @@
 - 2026-01-10 13:24  tighten the wording
 - 2026-01-10 14:32  add a short aside
 - 2026-01-10 15:25  add a detail I would otherwise forget
+- 2026-01-11 10:36  clarify a half-finished line
