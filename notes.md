@@ -51,3 +51,4 @@
 - 2026-10-04 18:12  add a short aside
 - 2026-10-06 15:55  drop a stale line
 - 2026-10-14 20:32  split a long note
+- 2026-01-14 14:51  write down a link to open later
