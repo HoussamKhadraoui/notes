@@ -92,3 +92,4 @@
 - 2026-01-17 11:24  move a line up
 - 2026-01-27 11:10  rewrite one sentence
 - 2026-02-02 10:51  write down a link to open later
+- 2026-02-02 11:59  drop a stale line
