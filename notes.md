@@ -103,3 +103,4 @@
 - 2026-02-04 11:20  note a time to revisit this
 - 2026-02-07 11:39  add a question to come back to
 - 2026-02-07 12:25  park an idea
+- 2026-02-07 13:07  capture a passing thought
