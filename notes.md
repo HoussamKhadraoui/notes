@@ -118,3 +118,4 @@
 - 2026-02-13 11:12  add a short aside
 - 2026-02-13 12:21  add a detail I would otherwise forget
 - 2026-02-13 13:10  clarify a half-finished line
+- 2026-02-13 13:52  trim the list
