@@ -122,3 +122,4 @@
 - 2026-02-13 14:56  move a line up
 - 2026-02-13 15:59  rewrite one sentence
 - 2026-02-14 10:17  write down a link to open later
+- 2026-02-22 10:50  drop a stale line
