@@ -132,3 +132,4 @@
 - 2026-03-02 15:17  note a name to check
 - 2026-03-02 16:14  note a time to revisit this
 - 2026-03-03 10:32  add a question to come back to
+- 2026-03-03 11:10  park an idea
