@@ -54,3 +54,4 @@
 - 2026-01-14 14:51  write down a link to open later
 - 2026-02-05 16:49  add a question to come back to
 - 2026-02-26 20:24  leave the draft where it is
+- 2026-03-06 16:43  rewrite one sentence
