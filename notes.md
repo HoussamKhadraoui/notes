@@ -12,3 +12,4 @@
 - 2026-03-04 12:24  note a name to check
 - 2026-03-05 19:39  note a time to revisit this
 - 2026-03-09 14:14  fix a small typo
+- 2026-03-09 15:20  note what to pick up tomorrow
