@@ -11,3 +11,4 @@
 - 2026-02-25 17:17  tighten the wording
 - 2026-03-04 12:24  note a name to check
 - 2026-03-05 19:39  note a time to revisit this
+- 2026-03-09 14:14  fix a small typo
