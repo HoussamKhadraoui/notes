@@ -13,3 +13,4 @@
 - 2026-03-05 19:39  note a time to revisit this
 - 2026-03-09 14:14  fix a small typo
 - 2026-03-09 15:20  note what to pick up tomorrow
+- 2026-03-11 16:07  clarify a half-finished line
