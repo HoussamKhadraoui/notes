@@ -146,3 +146,4 @@
 - 2026-03-12 12:48  cross one item off
 - 2026-03-12 13:41  tighten the wording
 - 2026-03-12 14:42  add a short aside
+- 2026-03-12 15:28  add a detail I would otherwise forget
