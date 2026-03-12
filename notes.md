@@ -144,3 +144,4 @@
 - 2026-03-12 10:36  leave the draft where it is
 - 2026-03-12 11:46  adjust the order
 - 2026-03-12 12:48  cross one item off
+- 2026-03-12 13:41  tighten the wording
