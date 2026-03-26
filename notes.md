@@ -17,3 +17,4 @@
 - 2026-03-13 19:54  capture a passing thought
 - 2026-03-23 16:28  file a small observation
 - 2026-03-24 16:44  reword the opening line
+- 2026-03-26 11:54  record a decision
