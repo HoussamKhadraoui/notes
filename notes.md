@@ -149,3 +149,4 @@
 - 2026-03-12 15:28  add a detail I would otherwise forget
 - 2026-03-14 11:01  clarify a half-finished line
 - 2026-03-27 11:07  trim the list
+- 2026-03-29 11:35  move a line up
