@@ -163,3 +163,4 @@
 - 2026-04-03 10:23  note a time to revisit this
 - 2026-04-03 11:04  add a question to come back to
 - 2026-04-03 11:52  park an idea
+- 2026-04-03 12:54  capture a passing thought
