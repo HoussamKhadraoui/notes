@@ -165,3 +165,4 @@
 - 2026-04-03 11:52  park an idea
 - 2026-04-03 12:54  capture a passing thought
 - 2026-04-03 13:33  add a second thought under the first
+- 2026-04-03 14:35  split a long note
