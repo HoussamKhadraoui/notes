@@ -180,3 +180,4 @@
 - 2026-04-06 13:40  clarify a half-finished line
 - 2026-04-07 11:01  trim the list
 - 2026-04-07 12:07  move a line up
+- 2026-04-07 12:57  rewrite one sentence
