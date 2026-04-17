@@ -20,3 +20,4 @@
 - 2026-03-26 11:54  record a decision
 - 2026-04-12 12:52  add a short aside
 - 2026-04-13 14:08  drop a stale line
+- 2026-04-17 15:38  split a long note
