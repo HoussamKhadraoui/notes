@@ -184,3 +184,4 @@
 - 2026-04-08 11:40  write down a link to open later
 - 2026-04-09 11:40  drop a stale line
 - 2026-04-20 10:23  leave a reminder for later
+- 2026-04-22 10:40  mark something done
