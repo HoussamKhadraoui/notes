@@ -186,3 +186,4 @@
 - 2026-04-20 10:23  leave a reminder for later
 - 2026-04-22 10:40  mark something done
 - 2026-04-23 10:11  reword the opening line
+- 2026-04-27 11:34  clean up a messy line
