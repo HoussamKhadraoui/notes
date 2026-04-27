@@ -187,3 +187,4 @@
 - 2026-04-22 10:40  mark something done
 - 2026-04-23 10:11  reword the opening line
 - 2026-04-27 11:34  clean up a messy line
+- 2026-04-27 12:31  leave a placeholder
