@@ -189,3 +189,4 @@
 - 2026-04-27 11:34  clean up a messy line
 - 2026-04-27 12:31  leave a placeholder
 - 2026-04-27 13:36  jot a follow-up
+- 2026-04-29 10:15  note a name to check
