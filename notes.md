@@ -196,3 +196,4 @@
 - 2026-04-30 13:36  capture a passing thought
 - 2026-04-30 14:40  add a second thought under the first
 - 2026-04-30 15:25  split a long note
+- 2026-05-01 10:31  note what to pick up tomorrow
