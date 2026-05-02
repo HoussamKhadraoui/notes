@@ -199,3 +199,4 @@
 - 2026-05-01 10:31  note what to pick up tomorrow
 - 2026-05-02 11:16  file a small observation
 - 2026-05-02 12:10  record a decision
+- 2026-05-02 12:53  fix a small typo
