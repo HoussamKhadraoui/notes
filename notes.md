@@ -202,3 +202,4 @@
 - 2026-05-02 12:53  fix a small typo
 - 2026-05-03 10:10  shorten a paragraph
 - 2026-05-03 11:04  leave the draft where it is
+- 2026-05-03 12:01  adjust the order
