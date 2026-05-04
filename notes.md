@@ -204,3 +204,4 @@
 - 2026-05-03 11:04  leave the draft where it is
 - 2026-05-03 12:01  adjust the order
 - 2026-05-04 11:40  cross one item off
+- 2026-05-04 12:48  tighten the wording
