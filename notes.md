@@ -208,3 +208,4 @@
 - 2026-05-04 13:28  add a short aside
 - 2026-05-04 14:15  add a detail I would otherwise forget
 - 2026-05-04 14:59  clarify a half-finished line
+- 2026-05-04 16:04  trim the list
