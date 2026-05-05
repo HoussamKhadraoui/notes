@@ -22,3 +22,4 @@
 - 2026-04-13 14:08  drop a stale line
 - 2026-04-17 15:38  split a long note
 - 2026-04-28 14:36  clean up a messy line
+- 2026-05-05 19:28  shorten a paragraph
