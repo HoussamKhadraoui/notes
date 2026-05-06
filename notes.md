@@ -23,3 +23,4 @@
 - 2026-04-17 15:38  split a long note
 - 2026-04-28 14:36  clean up a messy line
 - 2026-05-05 19:28  shorten a paragraph
+- 2026-05-06 15:35  leave a reminder for later
