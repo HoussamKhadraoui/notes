@@ -57,3 +57,4 @@
 - 2026-03-06 16:43  rewrite one sentence
 - 2026-03-10 21:40  cross one item off
 - 2026-04-16 14:37  park an idea
+- 2026-05-07 16:25  mark something done
