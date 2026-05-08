@@ -213,3 +213,4 @@
 - 2026-05-08 11:53  rewrite one sentence
 - 2026-05-08 13:04  write down a link to open later
 - 2026-05-08 14:04  drop a stale line
+- 2026-05-08 14:58  leave a reminder for later
