@@ -210,3 +210,4 @@
 - 2026-05-04 14:59  clarify a half-finished line
 - 2026-05-04 16:04  trim the list
 - 2026-05-08 10:41  move a line up
+- 2026-05-08 11:53  rewrite one sentence
