@@ -211,3 +211,4 @@
 - 2026-05-04 16:04  trim the list
 - 2026-05-08 10:41  move a line up
 - 2026-05-08 11:53  rewrite one sentence
+- 2026-05-08 13:04  write down a link to open later
