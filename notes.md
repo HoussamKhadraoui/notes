@@ -25,3 +25,4 @@
 - 2026-05-05 19:28  shorten a paragraph
 - 2026-05-06 15:35  leave a reminder for later
 - 2026-05-06 18:11  trim the list
+- 2026-05-12 15:23  leave a placeholder
