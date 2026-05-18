@@ -27,3 +27,4 @@
 - 2026-05-06 18:11  trim the list
 - 2026-05-12 15:23  leave a placeholder
 - 2026-05-13 15:43  move a line up
+- 2026-05-18 17:30  jot a follow-up
