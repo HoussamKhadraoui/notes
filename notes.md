@@ -29,3 +29,4 @@
 - 2026-05-13 15:43  move a line up
 - 2026-05-18 17:30  jot a follow-up
 - 2026-05-18 19:51  add a detail I would otherwise forget
+- 2026-05-20 20:31  write down a link to open later
