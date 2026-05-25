@@ -218,3 +218,4 @@
 - 2026-05-09 11:34  reword the opening line
 - 2026-05-21 10:49  clean up a messy line
 - 2026-05-24 10:47  leave a placeholder
+- 2026-05-25 11:16  jot a follow-up
