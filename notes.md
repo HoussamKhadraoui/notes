@@ -228,3 +228,4 @@
 - 2026-05-26 10:52  split a long note
 - 2026-05-26 12:07  note what to pick up tomorrow
 - 2026-05-28 11:17  file a small observation
+- 2026-05-29 10:11  record a decision
