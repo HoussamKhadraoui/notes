@@ -230,3 +230,4 @@
 - 2026-05-28 11:17  file a small observation
 - 2026-05-29 10:11  record a decision
 - 2026-05-29 10:56  fix a small typo
+- 2026-05-29 12:09  shorten a paragraph
