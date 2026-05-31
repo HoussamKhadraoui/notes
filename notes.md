@@ -235,3 +235,4 @@
 - 2026-05-29 13:45  adjust the order
 - 2026-05-29 14:53  cross one item off
 - 2026-05-30 10:36  tighten the wording
+- 2026-05-31 11:11  add a short aside
