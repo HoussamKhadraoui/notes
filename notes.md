@@ -240,3 +240,4 @@
 - 2026-05-31 12:48  clarify a half-finished line
 - 2026-05-31 13:58  trim the list
 - 2026-05-31 14:44  move a line up
+- 2026-05-31 15:50  rewrite one sentence
