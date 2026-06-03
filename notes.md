@@ -243,3 +243,4 @@
 - 2026-05-31 15:50  rewrite one sentence
 - 2026-06-01 11:34  write down a link to open later
 - 2026-06-03 11:25  drop a stale line
+- 2026-06-03 12:09  leave a reminder for later
