@@ -251,3 +251,4 @@
 - 2026-06-04 14:09  jot a follow-up
 - 2026-06-04 15:24  note a name to check
 - 2026-06-04 16:31  note a time to revisit this
+- 2026-06-05 11:03  add a question to come back to
