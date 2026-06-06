@@ -252,3 +252,4 @@
 - 2026-06-04 15:24  note a name to check
 - 2026-06-04 16:31  note a time to revisit this
 - 2026-06-05 11:03  add a question to come back to
+- 2026-06-06 10:20  park an idea
