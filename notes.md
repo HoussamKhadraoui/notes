@@ -59,3 +59,4 @@
 - 2026-04-16 14:37  park an idea
 - 2026-05-07 16:25  mark something done
 - 2026-05-19 18:19  add a second thought under the first
+- 2026-06-11 16:28  adjust the order
