@@ -33,3 +33,4 @@
 - 2026-06-09 16:08  add a question to come back to
 - 2026-06-10 16:40  leave the draft where it is
 - 2026-06-16 16:33  rewrite one sentence
+- 2026-06-17 20:55  cross one item off
