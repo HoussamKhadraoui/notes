@@ -60,3 +60,4 @@
 - 2026-05-07 16:25  mark something done
 - 2026-05-19 18:19  add a second thought under the first
 - 2026-06-11 16:28  adjust the order
+- 2026-06-18 17:17  tighten the wording
