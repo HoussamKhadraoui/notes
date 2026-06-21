@@ -255,3 +255,4 @@
 - 2026-06-06 10:20  park an idea
 - 2026-06-14 10:34  capture a passing thought
 - 2026-06-19 11:39  add a second thought under the first
+- 2026-06-21 10:57  split a long note
