@@ -259,3 +259,4 @@
 - 2026-06-23 10:38  note what to pick up tomorrow
 - 2026-06-25 11:11  file a small observation
 - 2026-06-25 12:20  record a decision
+- 2026-06-25 13:17  fix a small typo
