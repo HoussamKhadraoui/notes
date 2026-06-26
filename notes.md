@@ -261,3 +261,4 @@
 - 2026-06-25 12:20  record a decision
 - 2026-06-25 13:17  fix a small typo
 - 2026-06-26 10:04  shorten a paragraph
+- 2026-06-26 10:46  leave the draft where it is
