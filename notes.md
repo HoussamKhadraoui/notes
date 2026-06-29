@@ -37,3 +37,4 @@
 - 2026-06-24 13:37  park an idea
 - 2026-06-24 14:50  mark something done
 - 2026-06-29 12:36  add a second thought under the first
+- 2026-06-29 14:08  adjust the order
