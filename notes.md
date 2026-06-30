@@ -274,3 +274,4 @@
 - 2026-06-27 16:52  write down a link to open later
 - 2026-06-28 10:23  drop a stale line
 - 2026-06-30 10:41  leave a reminder for later
+- 2026-06-30 11:34  mark something done
