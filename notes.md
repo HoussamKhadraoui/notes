@@ -39,3 +39,4 @@
 - 2026-06-29 12:36  add a second thought under the first
 - 2026-06-29 14:08  adjust the order
 - 2026-07-07 18:41  tighten the wording
+- 2026-07-09 15:22  note a name to check
