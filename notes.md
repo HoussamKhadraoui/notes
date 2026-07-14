@@ -279,3 +279,4 @@
 - 2026-07-01 11:31  clean up a messy line
 - 2026-07-02 11:24  leave a placeholder
 - 2026-07-04 10:22  jot a follow-up
+- 2026-07-14 11:23  note a name to check
