@@ -289,3 +289,4 @@
 - 2026-07-21 11:24  note what to pick up tomorrow
 - 2026-07-21 12:20  file a small observation
 - 2026-07-21 13:02  record a decision
+- 2026-07-21 14:08  fix a small typo
