@@ -293,3 +293,4 @@
 - 2026-07-21 14:50  shorten a paragraph
 - 2026-07-22 10:25  leave the draft where it is
 - 2026-07-23 11:07  adjust the order
+- 2026-07-23 11:56  cross one item off
