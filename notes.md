@@ -299,3 +299,4 @@
 - 2026-07-23 14:42  add a detail I would otherwise forget
 - 2026-07-23 15:21  clarify a half-finished line
 - 2026-07-24 10:32  trim the list
+- 2026-07-25 10:51  move a line up
