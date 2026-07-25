@@ -301,3 +301,4 @@
 - 2026-07-24 10:32  trim the list
 - 2026-07-25 10:51  move a line up
 - 2026-07-25 11:36  rewrite one sentence
+- 2026-07-25 12:42  write down a link to open later
