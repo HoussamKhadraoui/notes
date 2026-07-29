@@ -305,3 +305,4 @@
 - 2026-07-26 10:21  drop a stale line
 - 2026-07-26 11:02  leave a reminder for later
 - 2026-07-26 11:47  mark something done
+- 2026-07-29 11:36  reword the opening line
