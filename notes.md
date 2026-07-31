@@ -308,3 +308,4 @@
 - 2026-07-29 11:36  reword the opening line
 - 2026-07-31 10:22  clean up a messy line
 - 2026-07-31 11:03  leave a placeholder
+- 2026-07-31 12:11  jot a follow-up
