@@ -42,3 +42,4 @@
 - 2026-07-09 15:22  note a name to check
 - 2026-07-27 15:42  note a time to revisit this
 - 2026-07-28 19:28  fix a small typo
+- 2026-08-01 12:11  note what to pick up tomorrow
