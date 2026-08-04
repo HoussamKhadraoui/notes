@@ -61,3 +61,4 @@
 - 2026-05-19 18:19  add a second thought under the first
 - 2026-06-11 16:28  adjust the order
 - 2026-06-18 17:17  tighten the wording
+- 2026-08-04 12:24  note a name to check
