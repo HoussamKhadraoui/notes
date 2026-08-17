@@ -314,3 +314,4 @@
 - 2026-07-31 15:29  add a question to come back to
 - 2026-08-10 11:19  park an idea
 - 2026-08-16 10:50  capture a passing thought
+- 2026-08-17 10:56  add a second thought under the first
