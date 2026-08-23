@@ -328,3 +328,4 @@
 - 2026-08-21 14:59  add a short aside
 - 2026-08-22 10:32  add a detail I would otherwise forget
 - 2026-08-23 11:18  clarify a half-finished line
+- 2026-08-23 11:56  trim the list
