@@ -331,3 +331,4 @@
 - 2026-08-23 11:56  trim the list
 - 2026-08-23 12:36  move a line up
 - 2026-08-23 13:48  rewrite one sentence
+- 2026-08-23 14:36  write down a link to open later
