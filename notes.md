@@ -330,3 +330,4 @@
 - 2026-08-23 11:18  clarify a half-finished line
 - 2026-08-23 11:56  trim the list
 - 2026-08-23 12:36  move a line up
+- 2026-08-23 13:48  rewrite one sentence
