@@ -335,3 +335,4 @@
 - 2026-08-23 15:41  drop a stale line
 - 2026-08-24 10:25  leave a reminder for later
 - 2026-08-28 10:43  mark something done
+- 2026-08-29 10:37  reword the opening line
