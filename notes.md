@@ -63,3 +63,4 @@
 - 2026-06-18 17:17  tighten the wording
 - 2026-08-04 12:24  note a name to check
 - 2026-08-25 19:39  note a time to revisit this
+- 2026-09-08 14:14  fix a small typo
