@@ -338,3 +338,4 @@
 - 2026-08-29 10:37  reword the opening line
 - 2026-09-10 11:10  clean up a messy line
 - 2026-09-13 10:26  leave a placeholder
+- 2026-09-15 10:58  jot a follow-up
